@@ -1,4 +1,4 @@
-# HGTrans
+# MGNformer
 
 Future Work
 
